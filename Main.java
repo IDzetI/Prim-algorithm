@@ -18,7 +18,7 @@ class Main {
     private static void init() throws IOException {
         //System.out.print("Initialisation...");
         writer = new Writer("output.txt");
-        reader = new Reader("USA.txt");
+        reader = new Reader("russia.txt");
         input = new Reader("input.txt");
         //System.out.println("/tOK");
     }
