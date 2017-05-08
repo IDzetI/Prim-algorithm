@@ -1,6 +1,7 @@
 # Prim-algorithm
 
-Example implementation Prim's algorithm on java. 
+<b>Example implementation Prim's algorithm on java. In this example, the prim's algorithm is used to create a minimal spanning tree. Which helps optimize the tree. This allows you to reduce the amount of stored data.</b>
+
 
 <b>Statement</b><br>
 You are working in delivery company "LHD". Your company's first priority is speed of delivery. So, each time you are looking for the route for delivery, you select the fastest one. 
@@ -30,4 +31,4 @@ input.txt
 Means clients are going to deliver 10 kilos from Бабяково to Свиблово and 5 kilos from Бабяково to Коньково. 
 
 
-<b>In this example, the prim algorithm is used to create a minimal spanning tree, which is used to optimize the tree, which can reduce the amount of stored data.</b>
+
