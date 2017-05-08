@@ -30,4 +30,4 @@ input.txt
 Means clients are going to deliver 10 kilos from Бабяково to Свиблово and 5 kilos from Бабяково to Коньково. 
 
 
-# In this example, the prim algorithm is used to create a minimal spanning tree, which is used to optimize the tree, which can reduce the amount of stored data.
+<b>In this example, the prim algorithm is used to create a minimal spanning tree, which is used to optimize the tree, which can reduce the amount of stored data.</b>
