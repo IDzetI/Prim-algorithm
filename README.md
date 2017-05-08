@@ -2,7 +2,7 @@
 
 Example implementation Prim's algorithm on java. 
 
-Statement<br>
+# Statement<br>
 You are working in delivery company "LHD". Your company's first priority is speed of delivery. So, each time you are looking for the route for delivery, you select the fastest one. 
 Now you are building the information system for customers, that estimates time and cost of delivery. Your database is undirected loopless graph with no parallel edges of roads which has information about distance (in km), time (in hours) and cost (in rubles/kilogram) of travelling between two points. This graph is stored in russia.txt file in the following format: 
 
